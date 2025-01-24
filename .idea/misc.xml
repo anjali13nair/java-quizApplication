@@ -7,7 +7,11 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/quiz-service/pom.xml" />
+=======
+        <option value="$PROJECT_DIR$/question-service/pom.xml" />
+>>>>>>> origin/master
       </list>
     </option>
   </component>

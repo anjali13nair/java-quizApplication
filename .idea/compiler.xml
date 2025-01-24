@@ -3,32 +3,20 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
-<<<<<<< HEAD
-      <profile name="Annotation profile for quiz-service" enabled="true">
-=======
       <profile name="Annotation profile for question-service" enabled="true">
->>>>>>> origin/master
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
         </processorPath>
-<<<<<<< HEAD
-        <module name="quiz-service" />
-=======
         <module name="question-service" />
->>>>>>> origin/master
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-<<<<<<< HEAD
-      <module name="quiz-service" options="-parameters" />
-=======
       <module name="question-service" options="-parameters" />
->>>>>>> origin/master
     </option>
   </component>
 </project>

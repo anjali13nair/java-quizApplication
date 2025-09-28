@@ -48,7 +48,7 @@ This repository contains a **Quiz Application** developed using **Spring Boot** 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/navinreddy20/MicroserviceTutorials.git
+   git clone https://github.com/anjali13nair/java-quizApplication.git
 
 2. Navigate to each service directory and build the services:
     ```bash
